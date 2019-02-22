@@ -11,10 +11,6 @@ setup(
     python_requires=">=2.7.10",
     install_requires = [
         'requests>=2.3.0',
-        'pyOpenSSL >= 0.13',
-        'ndg-httpsclient',
-        'pyasn1',
-        'urllib3'
     ],
     license='LICENSE.txt'
 )
